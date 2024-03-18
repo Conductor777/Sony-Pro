@@ -1,4 +1,3 @@
 # Sony-Pro New
 
--[<img src="https://i.imgur.com/Down.png"/>]
-+<img src="https://i.imgur.com/Down.png"/>
+![Screenshot](/Conductor777/Sony-Pro/commit/a3a9a86796cb67b5c279b2643762e2dfd415b712)
